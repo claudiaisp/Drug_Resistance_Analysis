@@ -8,6 +8,8 @@ The assemblies used for this code are confidential and should be classified and 
   1. AMRFinder assemblies should be kept in a folder named AMR and extension of the file .fasta
   2. MEGARES assemblies should be kept in a folder named MEGARES and extension of the file .fasta
 
+The outputs have been obtained using: Data_Obtention_Script.sh
+
 
 # Description of the code workflow
 1. Read AB_Genes and stores the information into a TSV file
